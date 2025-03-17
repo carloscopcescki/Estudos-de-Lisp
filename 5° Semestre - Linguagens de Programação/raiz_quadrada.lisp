@@ -1,0 +1,1 @@
+(write (sqrt 36))
