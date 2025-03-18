@@ -1,7 +1,8 @@
-(load "E:/SSD/PROGRAMAÇÃO/LISP/Exercicios Lisp - FSA/5° Semestre - Linguagens de Programação/Funções/subtrai2.lisp")
+(defun subtrai2 (n)
+    (- n 2))
 
 (defun doismaisp (a b)
-    (= a (subtrai2 b))
+    (> a (subtrai2 b))
 )
 
-(print (doismaisp 1 3))
+(print (doismaisp 2 3))

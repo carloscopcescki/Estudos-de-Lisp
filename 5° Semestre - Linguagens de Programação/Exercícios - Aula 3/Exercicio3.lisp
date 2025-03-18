@@ -2,4 +2,4 @@
     (/ (+ a b) 2)
 )
 
-(print (media 5 5))
+(print (media 10 2))
