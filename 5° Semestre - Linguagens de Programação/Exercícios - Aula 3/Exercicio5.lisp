@@ -1,0 +1,1 @@
+(print (symbolp (numberp 1)))
