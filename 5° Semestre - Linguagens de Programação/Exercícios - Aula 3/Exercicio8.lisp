@@ -3,4 +3,5 @@
 (defun par (n)
   (not (oddp n)))
 
-(print (par 3))
+(print (par 2)) ;; T
+(print (par 3)) ;; NIL
